@@ -3,7 +3,7 @@
   "name": "io.github.aanari/loacare-healthcare-pricing",
   "title": "Loa Healthcare Pricing",
   "description": "Search source-labeled hospital prices, CPT codes, providers, and healthcare cost estimates.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.loacare.com/mcp",
   "repository": {
     "url": "https://github.com/aanari/loacare-healthcare-pricing",
