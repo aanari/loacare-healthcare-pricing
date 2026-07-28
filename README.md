@@ -6,6 +6,9 @@ Loa's hosted Model Context Protocol server gives MCP-capable assistants access t
 - [Official MCP Registry listing](https://registry.modelcontextprotocol.io/?q=io.github.aanari%2Floacare-healthcare-pricing)
 - [Healthcare pricing API](https://www.loacare.com/api-partnership)
 - [Data sources and methodology](https://www.loacare.com/methodology)
+- [Procedure price guides](https://www.loacare.com/prices)
+- [U.S. healthcare provider directory](https://www.loacare.com/providers)
+- [U.S. hospital directory](https://www.loacare.com/hospitals)
 
 ## Remote endpoint
 
